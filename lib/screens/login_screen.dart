@@ -202,7 +202,7 @@ class _LoginScreenState extends State<LoginScreen> {
                                 width: 102,
                                 height: 102,
                                 child: Image.network(
-                                  'https://xnmuwzphgfdeehpwtpxs.supabase.co/storage/v1/object/public/report-images/ona-logo.jpg',
+                                  'https://xnmuwzphgfdeehpwtpxs.supabase.co/storage/v1/object/public/report-images/grok-image-7106483b-817d-44c7-bbdd-b6e45137cc69.png',
                                   fit: BoxFit.cover,
                                   loadingBuilder:
                                       (context, child, loadingProgress) {
